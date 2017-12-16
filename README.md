@@ -1,2 +1,2 @@
 # javascript-learn
-Learn Javascript
+Learn Javascript itu Mudah
